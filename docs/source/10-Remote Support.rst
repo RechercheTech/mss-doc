@@ -25,8 +25,14 @@ Select Remote Support option
 
  Help → Remote Support
 
+.. figure:: images/epoptes.png
+   :alt: Remote Support - Epoptes
+
 In Host type the I.P Address provided by technichian and hit Connect.
  Note: In Method check "Graphic(VNC)" is selected
+
+.. figure:: images/remote-assitance.png
+   :alt: Remote Support - Remote Assistance
 
   
 
