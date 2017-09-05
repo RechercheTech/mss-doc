@@ -12,6 +12,9 @@ Start Remmina Remote Desktop Client from
 Type "server" in textbox and hit Connect
  Note : Make sure RDP is selected in dropbox.
 
+.. figure:: images/remmina.png
+   :alt: Remote Support - Reminna
+
 Now, Login as mssadmin in remmina screen.
 
 Launch Epoptes from
