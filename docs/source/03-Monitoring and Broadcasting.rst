@@ -25,9 +25,9 @@ When running in thin-client mode or when directly logged into the MSS, Epoptes c
 
 How to create Epoptes Launcher ?
 -------
-Right click on desktop , then select "create launcher"
+Right click on desktop , then select "Create launcher..."
 
-In Create Launcher Window type "epoptes" in Name and Command then press OK -
+In Create Launcher Window type "Epoptes" in Name and "ltsp-remoteapps epoptes" in Command then press OK -
 
 .. figure:: images/epoptes-launcher.png
    :alt: Monitoring and Broadcasting - Epoptes Launcher
