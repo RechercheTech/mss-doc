@@ -1,7 +1,7 @@
 .. _connect-wifi:
 
-How to Connect Wi-fi
-===============
+How to Connect Wi-Fi
+====================
 
 Select your wi-fi/hotspot from the list.
 
