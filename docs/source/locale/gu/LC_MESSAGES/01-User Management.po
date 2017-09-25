@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-11 16:40+0530\n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
 "PO-Revision-Date: 2017-04-30 13:49+0530\n"
 "Last-Translator: \n"
 "Language: gu\n"
@@ -23,58 +23,154 @@ msgstr ""
 msgid "User Management"
 msgstr "વપરાશકર્તા વ્યવસ્થાપન"
 
-#: ../../source/01-User Management.rst:6
-msgid ""
-"On Start up Boot with Admin-Desktop Option then perform the following "
-"steps –"
+#: ../../source/01-User Management.rst:7
+msgid "Create new user"
 msgstr ""
 
 #: ../../source/01-User Management.rst:9
-msgid "Via GUI:"
-msgstr "GUI દ્વારા:"
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps –"
+msgstr ""
 
-#: ../../source/01-User Management.rst:11
-msgid "System → Administration → Users and Groups"
+#: ../../source/01-User Management.rst:12 Management.rst:47 Management.rst:66
+msgid "Via GUI"
+msgstr ""
+
+#: ../../source/01-User Management.rst:13 Management.rst:67
+msgid "Navigate to ``System`` → ``Administration`` → ``Users and Groups``"
 msgstr ""
 
 #: ../../source/01-User Management.rst:14
-msgid "Via Commandline:"
-msgstr "કંમાન્ડલાઇન દ્વારા:"
+msgid ""
+"Add new user by pressing the ``+Add`` button and fill in the details (You"
+" may have to wait for the existing user list to load.)"
+msgstr ""
 
 #: ../../source/01-User Management.rst:15
-msgid "Login as mssadmin and then execute the following commands in a terminal –"
+msgid "Set the new user's password in the next dialog"
+msgstr ""
+
+#: ../../source/01-User Management.rst:18 Management.rst:55 Management.rst:74
+msgid "Via Terminal"
+msgstr ""
+
+#: ../../source/01-User Management.rst:23 Management.rst:79
+msgid "Enter *mssadmin's* password when prompted and continue."
+msgstr ""
+
+#: ../../source/01-User Management.rst:28
+msgid "Add user to epoptes group"
+msgstr ""
+
+#: ../../source/01-User Management.rst:31
+msgid ""
+"This must only be done for teacher accounts as it grants some extra "
+"priveledges."
+msgstr ""
+
+#: ../../source/01-User Management.rst:33
+#, fuzzy
+msgid ""
+"Boot into ``Admin-Desktop``, login as *mssadmin* and execute the "
+"following in a Terminal –"
 msgstr "મસ્સડમીન (mssadmin) તરીકે લોગીન કરો અને પછી નીચેનાં આદેશો ટર્મિનલમાં આપો –"
 
-#: ../../source/01-User Management.rst:17
-msgid "To switch to root user privileges – ::"
-msgstr "રુટ યુઝર વિશેષાધિકારો પર સ્વિચ કરવા માટે - ::"
-
-#: ../../source/01-User Management.rst:22
-msgid "To add a new user – ::"
-msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
-
-#: ../../source/01-User Management.rst:27
-#, fuzzy
-msgid "To set a password for a previously created user –"
-msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
-
-#: ../../source/01-User Management.rst:29
-msgid "**Via GUI :** ::"
+#: ../../source/01-User Management.rst:41
+msgid "Change password"
 msgstr ""
-
-#: ../../source/01-User Management.rst:34
-msgid "**Via Terminal :** ::"
-msgstr ""
-
-#: ../../source/01-User Management.rst:39
-msgid ""
-"To add a user to epoptes group, needed only for teachers and admin "
-"accounts – ::"
-msgstr ""
-"એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને ઉમેરવા માટે (શિક્ષકો અને એડમિન "
-"એકાઉન્ટ્સ માટે જ જરૂરી છે) – ::"
 
 #: ../../source/01-User Management.rst:44
+msgid "To change your own password"
+msgstr ""
+
+#: ../../source/01-User Management.rst:52
+msgid ""
+"Press ``Change...`` against the ``Password:`` label. Thereafter set your "
+"password in the ``Change User Password`` dialog."
+msgstr ""
+
+#: ../../source/01-User Management.rst:61
+msgid "To change password of other user"
+msgstr ""
+
+#: ../../source/01-User Management.rst:63
+msgid "Boot into ``Admin-Desktop``, login as *mssadmin* and perform these steps -"
+msgstr ""
+
+#: ../../source/01-User Management.rst:68
+msgid "Select the user whose password needs changing"
+msgstr ""
+
+#: ../../source/01-User Management.rst:69
+msgid "Press ``Change...`` against the ``Password`` label"
+msgstr ""
+
+#: ../../source/01-User Management.rst:70
+msgid "Authenticate with *mssadmin's* password when prompted"
+msgstr ""
+
+#: ../../source/01-User Management.rst:71
+msgid "Set new password in the ``Change User Password`` dialog"
+msgstr ""
+
+#: ../../source/01-User Management.rst:83
+msgid "Mass user addition"
+msgstr ""
+
+#: ../../source/01-User Management.rst:85
+msgid ""
+"For adding  several users at one go, boot into ``Admin-Desktop``, login "
+"as *mssadmin** and perform these steps -"
+msgstr ""
+
+#: ../../source/01-User Management.rst:87
+msgid ""
+"Create space separated file containing \"username password\" such as this"
+" :download:`sample </files/users.csv>`."
+msgstr ""
+
+#: ../../source/01-User Management.rst:89
+msgid "Steps:"
+msgstr ""
+
+#: ../../source/01-User Management.rst:91
+msgid "Use ``LibreOffice Calc`` to create the file"
+msgstr ""
+
+#: ../../source/01-User Management.rst:92
+msgid "Choose ``File -> Save as``. You will see the ``Save as`` dialog."
+msgstr ""
+
+#: ../../source/01-User Management.rst:93
+msgid "In the ``File type`` field select the format ``Text CSV (.csv)``."
+msgstr ""
+
+#: ../../source/01-User Management.rst:94
+msgid "Enter a file name as users.csv and click ``Save``."
+msgstr ""
+
+#: ../../source/01-User Management.rst:95
+msgid ""
+"From the ``Export of text files`` dialog that appears, select the field "
+"delimeter as ``{space}`` for the data to be exported, and press OK."
+msgstr ""
+
+#: ../../source/01-User Management.rst:99
+msgid "There should be no empty lines in the file."
+msgstr ""
+
+#: ../../source/01-User Management.rst:101
+msgid "Open terminal and execute the command –"
+msgstr ""
+
+#: ../../source/01-User Management.rst:107
+msgid "Example: ::"
+msgstr ""
+
+#: ../../source/01-User Management.rst:113
+msgid "Default credentials"
+msgstr ""
+
+#: ../../source/01-User Management.rst:115
 msgid ""
 "By default, the appliance is shipped with the following user accounts "
 "pre-configured i.e. if no customisation has been requested during order "
@@ -83,45 +179,135 @@ msgstr ""
 "સર્વર નીચેના વપરાશકર્તા એકાઉન્ટ્સ સાથે મોકલેલ છે તે પૂર્વ-સમન્વયિત છે (જો"
 " ઓર્ડર પ્લેસમેન્ટ દરમિયાન કોઈ કસ્ટમાઇઝેશનની વિનંતી કરવામાં આવી નથી) –"
 
-#: ../../source/01-User Management.rst:46
-msgid "**student accounts:** student1 to student100; **password:** 12345"
+#: ../../source/01-User Management.rst:118
+msgid "Account Type"
 msgstr ""
 
-#: ../../source/01-User Management.rst:48
-msgid "**teacher accounts:** teacher1 to teacher10; **password:** imteacher"
+#: ../../source/01-User Management.rst:118
+#, fuzzy
+msgid "Username"
+msgstr "વપરાશકર્તા વ્યવસ્થાપન"
+
+#: ../../source/01-User Management.rst:118
+msgid "Password"
 msgstr ""
 
-#: ../../source/01-User Management.rst:51
-msgid "Mass User Addition:"
+#: ../../source/01-User Management.rst:120
+msgid "Admin"
 msgstr ""
 
-#: ../../source/01-User Management.rst:53
-msgid "Start LibreOffice Calc or any spreadsheet software."
+#: ../../source/01-User Management.rst:120
+msgid "mssadmin"
 msgstr ""
 
-#: ../../source/01-User Management.rst:55
+#: ../../source/01-User Management.rst:120
+msgid "myskool"
+msgstr ""
+
+#: ../../source/01-User Management.rst:121
+msgid "Student"
+msgstr ""
+
+#: ../../source/01-User Management.rst:121
+msgid "student<n>"
+msgstr ""
+
+#: ../../source/01-User Management.rst:121
+msgid "12345"
+msgstr ""
+
+#: ../../source/01-User Management.rst:122
+msgid "Teacher"
+msgstr ""
+
+#: ../../source/01-User Management.rst:122
+msgid "teacher<n>"
+msgstr ""
+
+#: ../../source/01-User Management.rst:122
+msgid "imteacher"
+msgstr ""
+
+#: ../../source/01-User Management.rst:125
 msgid ""
-"Create space separated by \"username password\" file users.csv (`see "
-"sample "
-"<https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_),"
-" there should be no empty lines in the file."
-msgstr ""
-
-#: ../../source/01-User Management.rst:57
-msgid ""
-"Tip: Use Libreoffice Calc to create the file, Save as CSV, Edit filter "
-"settings, Use {space} as field delimeter."
-msgstr ""
-
-#: ../../source/01-User Management.rst:59
-msgid ""
-"Open terminal and execute the command \"sudo massuseradd "
-"/path/to/file/users.csv\" ."
+"It is strongly recommend that a user must change the account password "
+"upon first time use."
 msgstr ""
 
 #~ msgid ""
 #~ "On Start up Boot with Legacy "
 #~ "Client Option then perform the following"
 #~ " steps –"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On Start up Boot with Admin-"
+#~ "Desktop Option then perform the "
+#~ "following steps –"
+#~ msgstr ""
+
+#~ msgid "Via GUI:"
+#~ msgstr "GUI દ્વારા:"
+
+#~ msgid "System → Administration → Users and Groups"
+#~ msgstr ""
+
+#~ msgid "Via Commandline:"
+#~ msgstr "કંમાન્ડલાઇન દ્વારા:"
+
+#~ msgid "To switch to root user privileges – ::"
+#~ msgstr "રુટ યુઝર વિશેષાધિકારો પર સ્વિચ કરવા માટે - ::"
+
+#~ msgid "To add a new user – ::"
+#~ msgstr "નવા વપરાશકર્તાને ઉમેરવા - ::"
+
+#~ msgid "To set a password for a previously created user –"
+#~ msgstr "અગાઉ બનાવેલ વપરાશકર્તા માટે પાસવર્ડ સેટ કરવા – ::"
+
+#~ msgid "**Via GUI :** ::"
+#~ msgstr ""
+
+#~ msgid "**Via Terminal :** ::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To add a user to epoptes group,"
+#~ " needed only for teachers and admin"
+#~ " accounts – ::"
+#~ msgstr ""
+#~ "એપોપટસ (epoptes) ગ્રુપ માં વપરાશકર્તાને "
+#~ "ઉમેરવા માટે (શિક્ષકો અને એડમિન એકાઉન્ટ્સ"
+#~ " માટે જ જરૂરી છે) – ::"
+
+#~ msgid "**student accounts:** student1 to student100; **password:** 12345"
+#~ msgstr ""
+
+#~ msgid "**teacher accounts:** teacher1 to teacher10; **password:** imteacher"
+#~ msgstr ""
+
+#~ msgid "Mass User Addition:"
+#~ msgstr ""
+
+#~ msgid "Start LibreOffice Calc or any spreadsheet software."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Create space separated by \"username "
+#~ "password\" file users.csv (`see sample "
+#~ "<https://docs.google.com/spreadsheets/d/1Z7EyS8XjG1j0OxHe8-w_S8ysnXUDn97Ux1-ib4gGoeQ/edit?usp=sharing>`_),"
+#~ " there should be no empty lines "
+#~ "in the file."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tip: Use Libreoffice Calc to create "
+#~ "the file, Save as CSV, Edit filter"
+#~ " settings, Use {space} as field "
+#~ "delimeter."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Open terminal and execute the command"
+#~ " \"sudo massuseradd /path/to/file/users.csv\" ."
 #~ msgstr ""
 

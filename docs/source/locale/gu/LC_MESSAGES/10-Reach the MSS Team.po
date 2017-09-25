@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, MSS Documentation Team
+# This file is distributed under the same license as the My sCool Server
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My sCool Server 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-19 11:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/10-Reach MSS Team.rst:2 the
+msgid "Contact Information"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:8 the
+msgid "Corporate Headquarters"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:9 the
+msgid "**Recherche Tech LLP**"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:10 the
+msgid "501/A, Synergy Building, L-74, Corporate Road, Makarba, Ahmedabad,"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:11 the
+msgid "Gujarat 380015. INDIA."
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:12 the
+msgid "Phone: +91-79-40080440"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:13 the
+msgid "Web site: http://www.myscoolserver.com"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:15 the
+msgid ""
+"Visit http://www.myscoolserver.com/contact for the regional and latest "
+"contact information."
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:18 the
+msgid "Social"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst the
+msgid "Twitter"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:20 the
+msgid "https://www.twitter.com/myscoolserver"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst the
+msgid "Facebook"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:22 the
+msgid "https://www.facebook.com/myscoolserver"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst the
+msgid "Google+"
+msgstr ""
+
+#: ../../source/10-Reach MSS Team.rst:24 the
+msgid "https://plus.google.com/+Myscoolserver"
+msgstr ""
+
