@@ -9,7 +9,11 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-19 11:14+0530\n"
+<<<<<<< HEAD
 "PO-Revision-Date: 2017-09-27 09:47+0530\n"
+=======
+"PO-Revision-Date: 2017-09-27 11:42+0530\n"
+>>>>>>> 1a98e2f... Fix annotaion for gu (#48)
 "Last-Translator: \n"
 "Language: gu\n"
 "Language-Team: \n"
@@ -41,8 +45,7 @@ msgid "Navigate to ``System`` → ``Administration`` → ``Users and Groups``"
 msgstr "નેવિગેટ કરો - ``સિસ્ટમ`` → ``એડમિનિસ્ટ્રેશન`` → ``યુજર્સ એન્ડ ગ્રૂપ્સ``"
 
 #: ../../source/01-User Management.rst:14
-msgid ""
-"Add new user by pressing the ``+Add`` button and fill in the details (You may have to wait for the existing user list to load.)"
+msgid "Add new user by pressing the ``+Add`` button and fill in the details (You may have to wait for the existing user list to load.)"
 msgstr "``+Add`` બટન ને દબાવી ને નવા યુઝર ને એડ કરો અને વિગતો ભરો. (મોજૂદા યુઝર લિસ્ટ લોડ થાય ત્યાં સુધી તમને વાટ જોવી પડસે.)"
 
 #: ../../source/01-User Management.rst:15
@@ -111,7 +114,7 @@ msgstr "ઘણા બધા યુઝર એડ કરવા માટે"
 
 #: ../../source/01-User Management.rst:85
 msgid "For adding  several users at one go, boot into ``Admin-Desktop``, login as *mssadmin** and perform these steps -"
-msgstr "ઘણા બધા યુઝર્સ ને એક આજ વાર માં જોડવા માટે,`` Admin-Desktop`` માં બુટ કરો, *mssadmin** થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
+msgstr "ઘણા બધા યુઝર્સ ને એક આજ વાર માં જોડવા માટે, ``Admin-Desktop`` માં બુટ કરો, *mssadmin** થી લૉગિન કરો અને આ સ્ટેપ્સ નું પાલન કરો -"
 
 #: ../../source/01-User Management.rst:87
 msgid "Create space separated file containing \"username password\" such as this :download:`sample </files/users.csv>`."
@@ -138,9 +141,13 @@ msgid "Enter a file name as users.csv and click ``Save``."
 msgstr "ફાઇલ નું નામ users.csv દાખલ કરો અને ``Save`` પર ક્લિક કરો."
 
 #: ../../source/01-User Management.rst:95
+<<<<<<< HEAD
 msgid ""
 "From the ``Export of text files`` dialog that appears, select the field delimeter as ``{space}`` for the data to be exported, and "
 "press OK."
+=======
+msgid "From the ``Export of text files`` dialog that appears, select the field delimeter as ``{space}`` for the data to be exported, and press OK."
+>>>>>>> 1a98e2f... Fix annotaion for gu (#48)
 msgstr "``Export of text files`` ડાયલોગ જે દેખાય છે, ફિલ્ડ ડેલિમીટર ના રૂપ માં ``{space}`` સિલેક્ટ કરો ડેટા નું નિકાસ કરવા માટે અને OK પર ક્લિક કરો."
 
 #: ../../source/01-User Management.rst:99
@@ -161,8 +168,8 @@ msgstr "ડિફૉલ્ટ ઓળખાણપત્ર"
 
 #: ../../source/01-User Management.rst:115
 msgid ""
-"By default, the appliance is shipped with the following user accounts pre-configured i.e. if no customisation has been requested "
-"during order placement –"
+"By default, the appliance is shipped with the following user accounts pre-configured i.e. if no customisation has been requested during order "
+"placement –"
 msgstr "પેલા થી કોનફિગર કરેલા નીચે દીધેલાં યુઝર અકાઉંટ સાથે જ આ ઉપકરણ ને મોકલવા માં આવે છે અર્થાત ઓર્ડર દેતા વખતે કઈં ફેર બદલ નથી કરેલો ­­­–"
 
 #: ../../source/01-User Management.rst:118

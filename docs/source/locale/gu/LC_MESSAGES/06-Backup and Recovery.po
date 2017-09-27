@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: My sCool Server 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-29 03:50+0530\n"
-"PO-Revision-Date: 2017-09-27 09:55+0530\n"
+"PO-Revision-Date: 2017-09-27 12:18+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,11 +25,9 @@ msgstr "બેકઅપ અને રિકવરી"
 
 #: ../../source/06-Backup Recovery.rst:3 and
 msgid ""
-"We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around with the server and we do not penalise you for doing so. The My "
-"sCool Server provides ‘Factory Restore’ options via –"
-msgstr ""
-"અમે આ સમજયે છે કે દુર્ઘટનાઓ થતી રહે છે અને હર એક ને બીજો મોકો મડ્વો જોઇયે. ઓપન-સોર્સ હોવાના ને નાતે કોઈ નું પણ મન સર્વર સાથે રમવાનું થઈ સકે છે અને એવું કરવા પર અમે કોઈ પ્રકાર નું દંડ નથી લગાડતા. My sCool સર્વર અહી થી ‘ફેકટ્રી "
-"રિસ્ટોર’ ઓપ્શન આપે છે –"
+"We understand that accidents happen and that everyone deserves a second chance. Being open-source one may be tempted to play around with the server and we do not penalise you for doing so. The My sCool Server provides ‘Factory "
+"Restore’ options via –"
+msgstr "અમે આ સમજયે છે કે દુર્ઘટનાઓ થતી રહે છે અને હર એક ને બીજો મોકો મળવો જોઇયે. ઓપન-સોર્સ હોવાના ને નાતે કોઈ નું પણ મન સર્વર સાથે રમવાનું થઈ સકે છે અને એવું કરવા પર અમે કોઈ પ્રકાર નું દંડ નથી લગાડતા. My sCool સર્વર અહી થી ‘ફેકટ્રી રિસ્ટોર’ ઓપ્શન આપે છે –"
 
 #: ../../source/06-Backup Recovery.rst:5 and
 msgid "Server boot menu or"
@@ -40,30 +38,25 @@ msgid "USB created with the recovery.sh tool"
 msgstr "recovery.sh દ્વારા બનાવેલી usb"
 
 #: ../../source/06-Backup Recovery.rst:8 and
-msgid ""
-"Factory Restore option restores the system to the state the server left Recherche’s premises, which may include customisation such as user accounts etc., if the data is given at the time of order "
-"placement."
-msgstr "ફેકટ્રી રિસ્ટોર ઓપ્શન સિસ્ટમ ને રિસ્ટોર કરે છે અને એજ અવસ્થા માં પાછું લાવે છે જ્યારે એણે રેચેરચે નું સ્થડ છોડ્યું હતું, જેમાં યુઝર ના અકાઉંટ માં કરેલા બદલાઓ પણ શામિલ આદિ., અગર ડેટા ઓર્ડર પ્લેસમેન્ટ વખતે આપેલું હતું."
+msgid "Factory Restore option restores the system to the state the server left Recherche’s premises, which may include customisation such as user accounts etc., if the data is given at the time of order placement."
+msgstr "ફેકટ્રી રિસ્ટોર ઓપ્શન સિસ્ટમ ને રિસ્ટોર કરે છે અને એજ અવસ્થા માં પાછું લાવે છે જ્યારે એણે રેચેરચે નું સ્થળ છોડ્યું હતું, જેમાં યુઝર ના અકાઉંટ માં કરેલા પરિવર્તનો પણ શામિલ આદિ., અગર ડેટા ઓર્ડર પ્લેસમેન્ટ વખતે આપેલું હતું."
 
 #: ../../source/06-Backup Recovery.rst:10 and
 msgid ""
-"Multiple snapshots can be created. It is limited by space available on the /recovery partition. MSS uses borg deduplicated backup so only the changes made to system since the last backup are stored "
-"on subsequent backup attempts."
-msgstr ""
-"મલ્ટીપલ સ્નેપશોટ બનાવી શકાય છે.રિકવરી પાર્ટીશન પર જેટલી જગ્યા છે એટલા પર અજ કામ કરી સકાય છે. MSS બોર્ગ દિડુપ્લિકેટેડ બેકપ નું પ્રયોગ કરે છે, જેનો અર્થ છે કે જે બદલાવ સિસ્ટમ માં પાછડા બેકઅપ પછી કરેલા છે એ પછી કરેલા બેકઅપ અટૈમ્પ્ટ માં "
-"સંગ્રહિત કરવામાં આવસે."
+"Multiple snapshots can be created. It is limited by space available on the /recovery partition. MSS uses borg deduplicated backup so only the changes made to system since the last backup are stored on subsequent backup attempts."
+msgstr "મલ્ટીપલ સ્નેપશોટ બનાવી શકાય છે.રિકવરી પાર્ટીશન પર જેટલી જગ્યા છે એટલા પરજ કામ કરી શકાય છે. MSS બોર્ગ દિડુપ્લિકેટેડ બેકપ નું પ્રયોગ કરે છે, જેનો અર્થ છે કે જે બદલાવ સિસ્ટમ માં પાછલા બેકઅપ પછી કરેલા છે એ પછી કરેલા બેકઅપ અટૈમ્પ્ટ માં સંગ્રહિત કરવામાં આવશે."
 
 #: ../../source/06-Backup Recovery.rst:12 and
 msgid "To create a backup, run the following command as root (sudo su -):"
-msgstr "બેકઅપ બનવા માટે નીચે દીધેલાં કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
+msgstr "બેકઅપ બનવા માટે નીચે આપેલા કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
 
 #: ../../source/06-Backup Recovery.rst:18 and
 msgid "To restore to factory image from a running system, run the following as root (sudo su -):"
-msgstr "ચાલુ સિસ્ટમ માથી ફેક્ટરી ઇમેજ રિસ્ટોર કરવા માટે, નીચે દીધેલાં કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
+msgstr "ચાલુ સિસ્ટમ માથી ફેક્ટરી ઇમેજ રિસ્ટોર કરવા માટે, નીચે આપેલા કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
 
 #: ../../source/06-Backup Recovery.rst:24 and
 msgid "Snapshots are numerical, 1 denoting the factory image. By default, running restore will restore to that snapshot. To restore to last snapshot taken run the following as root (sudo su -):"
-msgstr "સ્નેપશોટસ સંખ્યાત્મક છે, 1 ફેક્ટરી ઇમેજ ને દર્શાવે છે. મૂળભૂત રીતે, રિસ્ટોર ચલાવા પર સ્નેપશોટ પર રિસ્ટોર થઈ જસે. છેલ્લાં સ્નેપશોટ પર રિસ્ટોર કરવા માટે. નીચે દીધેલાં કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
+msgstr "સ્નેપશોટસ સંખ્યાત્મક છે, 1 ફેક્ટરી ઇમેજ ને દર્શાવે છે. મૂળભૂત રીતે, રિસ્ટોર ચલાવા પર સ્નેપશોટ પર રિસ્ટોર થઈ જસે. છેલ્લાં સ્નેપશોટ પર રિસ્ટોર કરવા માટે. નીચે આપેલા કમાન્ડ ને રૂટ (sudo su -) ના રૂપ માં ચલાવો:"
 
 #: ../../source/06-Backup Recovery.rst:30 and
 msgid "Snapshot management is beyond the scope of this tool and document. Refer `borg documentation <http://borgbackup.readthedocs.io/en/stable/usage.htm>`_ for details."
