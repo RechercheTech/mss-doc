@@ -1,2 +1,3 @@
 build
 *.mo
+*.DS_Store
